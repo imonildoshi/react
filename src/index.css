@@ -1,0 +1,113 @@
+.catalog-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fafafa;
+  position: absolute;
+  height: auto;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+.catalog-search {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: #fafafa;
+}
+.search-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.select-container {
+  display: flex;
+  flex-direction: row;
+}
+.select-dbsource {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 56px;
+  width: 328px; */
+  height: 45px;
+  width: 275px;
+  left: 20px;
+  top: 20px;
+  border-radius: 28px;
+  border: none;
+  background: linear-gradient(
+      0deg,
+      rgba(27, 58, 92, 0.08),
+      rgba(27, 58, 92, 0.08)
+    ),
+    #ffffff;
+  border-radius: 28px;
+  margin-left: 20px;
+}
+.catalog-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fafafa;
+  position: absolute;
+  height: auto;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+.catalog-search {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: #fafafa;
+}
+.search-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.select-container {
+  display: flex;
+  flex-direction: row;
+}
+.select-dbsource {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 56px;
+  width: 328px; */
+  height: 45px;
+  width: 275px;
+  left: 20px;
+  top: 20px;
+  border-radius: 28px;
+  border: none;
+  background: linear-gradient(
+      0deg,
+      rgba(27, 58, 92, 0.08),
+      rgba(27, 58, 92, 0.08)
+    ),
+    #ffffff;
+  border-radius: 28px;
+  margin-left: 20px;
+}
+.search-component {
+  margin-right: 15px;
+}
